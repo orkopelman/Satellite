@@ -1,0 +1,9 @@
+[submodule "libcsp"]
+	path = libcsp
+	url = https://github.com/libcsp/libcsp
+[submodule "SPAM"]
+	path = SPAM
+	url = git@github.com:Make-Haifa-Great-Again/SPAM.git
+[submodule "json"]
+	path = json
+	url = git@github.com:nlohmann/json.git
